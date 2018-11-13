@@ -1,0 +1,122 @@
+﻿        body
+        {
+            overflow-x:hidden;
+	        background-color: #085394;
+            background-image: linear-gradient(#085394, #073763);
+            width:99%;
+            text-align:justify;
+        }
+
+        /**/
+        .entete
+        {
+            position: -webkit-sticky;
+            position: sticky;
+            top:1%;
+            height:220px;
+        }
+
+        .Logo
+        {
+            margin-left:200px;
+        }
+
+        .menu 
+        {
+            padding: 0vh 2vw 0vh 2vw;
+            display:inline-block;
+            list-style-type:none;
+            margin-left:-185px;
+            margin-top:35px;
+        }
+
+        .niveau1
+        {
+
+            width:12.1em;
+            /*Largeur des onglet*/
+            background-color: #073763;  
+            color: white;  
+            text-align: center;  
+            /*Hauteur des onglet*/
+            height:30px;  
+            line-height:30px; 
+            padding:10px;
+        }
+
+        .niveau1:hover
+        {
+            background-color:#3A434C;
+        }
+
+        .niveau2
+        {
+            width: 12.5em; 
+            background-color: #87ADD4;  
+            color: #073763;
+            font-size: medium;
+            height: 20px;  
+            padding:5px;
+        }
+
+        .niveau2:hover
+        {
+            background-color:#758799;
+        }
+
+        .selecmenu
+        {
+            background-color: #9370D8;  
+            color: #000000; 
+        }
+
+        .contenu
+        {
+            margin:auto;
+            margin-left:150px;
+            margin-top:50px;
+        }
+
+        .piedpage
+        {
+            background-color:#073763;
+            position:fixed;
+            left:0;
+            bottom:0;
+            margin-left:-10px;
+            width:105%;
+        }
+
+        .contact
+        {
+            position:relative;
+            padding-left:10%;
+            float:left;
+            color:white;
+            width:20%;
+            margin-top:1%;
+            margin-left:12%;
+            font-size:15px;
+        }
+
+        .formulaire
+        {
+            position:relative;
+            float:left;
+            margin-top:1%;
+            margin-left:5%;
+            width:20%;
+            color:white;
+            font-size:20px;
+        }
+
+        .logo_Cegep
+        {
+            position:relative;
+            float:left;
+            margin-top:1%;
+            margin-left:10%;
+            width:20%;
+            color:white;
+            font-size:20px;
+        }

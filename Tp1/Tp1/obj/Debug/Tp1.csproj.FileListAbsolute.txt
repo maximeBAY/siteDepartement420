@@ -1,0 +1,18 @@
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\bin\Tp1.dll.config
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\bin\Tp1.dll
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\bin\Tp1.pdb
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\obj\Debug\Tp1.dll
+c:\users\tolg\documents\visual studio 2013\Projects\Tp1\Tp1\obj\Debug\Tp1.pdb
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\bin\Tp1.dll.config
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\bin\Tp1.dll
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\bin\Tp1.pdb
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\obj\Debug\Tp1.dll
+Z:\Public GR3\2018-2019\420-W51-SI\Travail Pratique 1 - Site Web Dpt\Tp1\Tp1\obj\Debug\Tp1.pdb
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\bin\Tp1.dll.config
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\bin\Tp1.dll
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\bin\Tp1.pdb
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\obj\Debug\Tp1.dll
+F:\3ieme Année\Automne 2018\Programmation dans un envrionnement Internet\Tp1\Tp1\obj\Debug\Tp1.pdb

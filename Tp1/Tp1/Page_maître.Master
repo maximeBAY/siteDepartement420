@@ -1,0 +1,148 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maître.master.cs" Inherits="Tp1.Page_maître" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+
+    <title>Ma page web</title>
+
+</head>
+
+<body>
+
+    <form id="form1" runat="server">
+
+    
+
+    <div class="entete">
+
+        <div class="Logo">
+            <asp:Image  
+                ID="logo" 
+                ImageAlign="Left" 
+                ImageUrl="~/img/420.png" 
+                Width="150" Height="150"
+                runat="server"/>
+        </div>
+            
+
+        <div >
+            <asp:Image  
+                ID="Image1" 
+                ImageAlign="Left" 
+                ImageUrl="~/img/dep.png" 
+                Width="800" Height="120"
+                runat="server"/>
+        </div>
+
+
+        <br />
+
+        <div >
+
+            <asp:Menu CssClass="menu"
+                ID="menu" 
+                runat="server" 
+                Orientation="Horizontal">
+                
+                <LevelMenuItemStyles>
+                    <asp:MenuItemStyle CssClass="niveau1"/>
+                    <asp:MenuItemStyle CssClass="niveau2"/>
+                </LevelMenuItemStyles>
+
+                <Items>
+
+                    <asp:MenuItem NavigateUrl="~/Accueil" 
+                        Text="Accueil" 
+                        Value="url">
+                    </asp:MenuItem>
+
+                    <asp:MenuItem NavigateUrl="~/page1.aspx"  
+                        Text="Futurs étudiants" 
+                        Value="url">
+                        <asp:MenuItem Text="Documentation"></asp:MenuItem>
+                        <asp:MenuItem Text="Cheminement"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière"></asp:MenuItem>
+                    </asp:MenuItem>
+
+                    <asp:MenuItem NavigateUrl="~/page2.aspx"
+                        Text="Stage" 
+                        Value="bouton">
+                        <asp:MenuItem Text="Etudiant"></asp:MenuItem>
+                        <asp:MenuItem Text="Employeur"></asp:MenuItem>
+                    </asp:MenuItem>
+
+                    <asp:MenuItem 
+                        Text="Le SLAN"
+                        Value="image">
+                    </asp:MenuItem>
+
+                    <asp:MenuItem 
+                        Text="Équipe"
+                        Value="image">
+                        <asp:MenuItem Text="Personnel"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière"></asp:MenuItem>
+                    </asp:MenuItem>
+
+                    <asp:MenuItem 
+                        Text="FAQ"
+                        Value="image">
+                    </asp:MenuItem>
+
+                </Items>
+                <LevelMenuItemStyles>  
+                    <asp:MenuItemStyle CssClass="stylemenu" />
+                </LevelMenuItemStyles>  
+                <StaticSelectedStyle CssClass="selecmenu" /> 
+            </asp:Menu>
+
+        </div>
+    </div>
+        
+    <br />
+
+    <div class="contenu">
+        <asp:ContentPlaceHolder ID="cph_contenu" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <div class="piedpage">
+
+        <div class="contact">
+         POUR NOUS JOINDRE
+         <br />
+         Département de l'informatique
+         <br />  
+         Cégep de Sept-Îles
+         <br />   
+         Coordonateur: Carl Gendron
+         <br />   
+         Téléphone: 418 962-9848 Poste: 270
+
+        </div>
+        
+        <div class="formulaire">
+            Contactez-nous par formulaire
+        </div>
+       
+        <div class="logo_Cegep">
+            <asp:Image  
+                ID="logo_cegep1" 
+                ImageAlign="Left" 
+                ImageUrl="~/img/logo_cegep1.png" 
+                Width="175" Height="75"
+                runat="server"/>
+        </div>
+
+    </div>
+
+
+
+    </form>
+</body>
+</html>
