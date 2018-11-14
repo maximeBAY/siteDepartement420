@@ -16,7 +16,10 @@
 
     <form id="formPrincipale" runat="server">
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 02d6e6aa8a5913e2c78e6c336104d6c73bd9e73e
     <div class="entete">
 
         <div class="Logo">
