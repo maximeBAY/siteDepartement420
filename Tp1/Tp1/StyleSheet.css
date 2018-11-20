@@ -10,8 +10,7 @@
         .entete
         {
 
-            margin-top:0;
-            background-color: #085394;
+            background-color: black;
             z-index:10;
             position: -webkit-sticky;
             position: sticky;
@@ -23,6 +22,7 @@
         {
             margin-left:12%;
         }
+
 
         .menu 
         {

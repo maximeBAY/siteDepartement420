@@ -18,9 +18,7 @@
 
     <div class="entete">
 
-        <div class="Barre">
 
-        </div>
 
         <div class="Logo">
             <asp:Image  
@@ -32,7 +30,7 @@
         </div>
             
 
-        <div >
+        <div>
             <asp:Image  
                 ID="ImageDepartement" 
                 ImageAlign="Left"
@@ -104,7 +102,7 @@
 
         </div>
     </div>
-        
+
     <br />
 
     <div class="contenu">
