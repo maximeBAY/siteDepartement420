@@ -7,29 +7,32 @@
             text-align:justify;
         }
 
-        /**/
+                
         .entete
         {
             z-index:10;
             background-color:black;
             position: -webkit-sticky;
             position: sticky;
-            top:1%;
-            height:220px;
+            top:0%;
+            height:210px;
+            background-color: #216baf;
         }
 
         .Logo
         {
             margin-left:12%;
         }
-
+            
         .menu 
         {
             display:inline-block;
             margin-left:12%;
             list-style-type:none;
+            margin-left:185px;
+            margin-top:5px;
         }
-
+            
         .niveau1
         {
 
