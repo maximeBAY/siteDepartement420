@@ -10,6 +10,8 @@
         /**/
         .entete
         {
+            z-index:10;
+            background-color:black;
             position: -webkit-sticky;
             position: sticky;
             top:1%;
@@ -76,7 +78,7 @@
 
         .piedpage
         {
-            background-color:#073763;
+            background-color:black;
             left:0;
             bottom:0;
             width:105%;

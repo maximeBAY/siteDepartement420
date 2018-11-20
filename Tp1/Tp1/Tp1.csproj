@@ -74,7 +74,7 @@
     <Content Include="img\Logo.png" />
     <Content Include="img\Logo_Cegep.png" />
     <Content Include="Pages\Slan.aspx" />
-    <Content Include="StyleSheet_Principale.css" />
+    <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

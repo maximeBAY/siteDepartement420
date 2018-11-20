@@ -6,7 +6,7 @@
 
 <head runat="server">
 
-    <link rel="stylesheet" href="StyleSheet_Principale.css" />
+    <link rel="stylesheet" href="StyleSheet.css" />
 
     <title>Ma page web</title>
 
@@ -16,10 +16,6 @@
 
     <form id="formPrincipale" runat="server">
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 02d6e6aa8a5913e2c78e6c336104d6c73bd9e73e
     <div class="entete">
 
         <div class="Logo">
@@ -72,7 +68,7 @@
                     </asp:MenuItem>
 
                     <asp:MenuItem NavigateUrl="~/page2.aspx"
-                        Text="Stage" 
+                        Text="Stages" 
                         Value="bouton">
                         <asp:MenuItem Text="Etudiant"></asp:MenuItem>
                         <asp:MenuItem Text="Employeur"></asp:MenuItem>
