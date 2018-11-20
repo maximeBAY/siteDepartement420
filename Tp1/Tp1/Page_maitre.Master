@@ -1,6 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maitre.Master.cs" Inherits="Tp1.Page_maître" %>
 
-<%--maxime--%>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -19,6 +18,10 @@
 
     <div class="entete">
 
+        <div class="Barre">
+
+        </div>
+
         <div class="Logo">
             <asp:Image  
                 ID="logo" 
@@ -32,7 +35,7 @@
         <div >
             <asp:Image  
                 ID="ImageDepartement" 
-                ImageAlign="Left" 
+                ImageAlign="Left"
                 ImageUrl="~/img/dep.png" 
                 Width="800" Height="120"
                 runat="server"/>

@@ -9,14 +9,15 @@
         /**/
         .entete
         {
+
+            margin-top:0;
             background-color: #085394;
             z-index:10;
             position: -webkit-sticky;
             position: sticky;
             top:1%;
-            margin-top:-5%;
-            height:220px;
         }
+        
 
         .Logo
         {
@@ -72,14 +73,14 @@
 
         .contenu
         {
-            margin-left:12%;
-            margin-right:11%;
+            margin-left:12.1%;
+            margin-right:11.3%;
         }
 
         .piedpage
         {
             z-index:9;
-            background-color:#06447a;
+            background-color:black;
             left:0;
             bottom:0;
             width:105%;
