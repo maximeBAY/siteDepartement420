@@ -13,11 +13,8 @@
 </head>
 
 <body>
-    no nut
     <form id="form1" runat="server">
 
-    
-        papa not dead, no nut november
     <div class="entete">
 
         <div class="Logo">
@@ -25,7 +22,7 @@
                 ID="logo" 
                 ImageAlign="Left" 
                 ImageUrl="~/img/420.png" 
-                Width="150" Height="150"
+                Width="90" Height="90"
                 runat="server"/>
         </div>
             
@@ -35,12 +32,12 @@
                 ID="Image1" 
                 ImageAlign="Left" 
                 ImageUrl="~/img/dep.png" 
-                Width="800" Height="120"
+                Width="600" Height="80"
                 runat="server"/>
         </div>
 
 
-        <br />
+        <%--<br />--%>
 
         <div >
 

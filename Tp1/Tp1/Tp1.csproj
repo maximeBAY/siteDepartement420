@@ -95,6 +95,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pages\Slan.aspx.cs">
       <DependentUpon>Slan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Pages\Slan.aspx.designer.cs">
       <DependentUpon>Slan.aspx</DependentUpon>
