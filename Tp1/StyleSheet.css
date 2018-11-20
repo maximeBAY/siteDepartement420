@@ -2,6 +2,7 @@
         {
             overflow-x:hidden;
 	        background-color: #085394;
+            background-image: linear-gradient(#085394, #073763);
             width:99%;
             text-align:justify;
         }
@@ -9,12 +10,11 @@
         /**/
         .entete
         {
-            background-color: #085394;
             z-index:10;
+            background-color:black;
             position: -webkit-sticky;
             position: sticky;
             top:1%;
-            margin-top:-5%;
             height:220px;
         }
 
@@ -78,8 +78,7 @@
 
         .piedpage
         {
-            z-index:9;
-            background-color:#06447a;
+            background-color:black;
             left:0;
             bottom:0;
             width:105%;

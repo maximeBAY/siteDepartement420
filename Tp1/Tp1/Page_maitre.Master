@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maître.master.cs" Inherits="Tp1.Page_maître" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maitre.Master.cs" Inherits="Tp1.Page_maître" %>
 
 <%--maxime--%>
 <!DOCTYPE html>
@@ -15,9 +15,7 @@
 
 <body>
 
-    <form id="form1" runat="server">
-
-    
+    <form id="formPrincipale" runat="server">
 
     <div class="entete">
 
@@ -26,14 +24,14 @@
                 ID="logo" 
                 ImageAlign="Left" 
                 ImageUrl="~/img/420.png" 
-                Width="150" Height="150"
+                Width="100" Height="100"
                 runat="server"/>
         </div>
             
 
         <div >
             <asp:Image  
-                ID="Image1" 
+                ID="ImageDepartement" 
                 ImageAlign="Left" 
                 ImageUrl="~/img/dep.png" 
                 Width="800" Height="120"
@@ -71,7 +69,7 @@
                     </asp:MenuItem>
 
                     <asp:MenuItem NavigateUrl="~/page2.aspx"
-                        Text="Stage" 
+                        Text="Stages" 
                         Value="bouton">
                         <asp:MenuItem Text="Etudiant"></asp:MenuItem>
                         <asp:MenuItem Text="Employeur"></asp:MenuItem>
