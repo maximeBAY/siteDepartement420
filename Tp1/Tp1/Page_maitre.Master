@@ -6,7 +6,7 @@
 
 <head runat="server">
 
-    <link rel="stylesheet" href="StyleSheet_Principale.css" />
+    <link rel="stylesheet" href="StyleSheet.css" />
 
     <title>Ma page web</title>
 
@@ -17,6 +17,10 @@
     <form id="formPrincipale" runat="server">
 
     <div class="entete">
+
+        <div class="Barre">
+
+        </div>
 
         <div class="Logo">
             <asp:Image  
@@ -31,7 +35,7 @@
         <div >
             <asp:Image  
                 ID="ImageDepartement" 
-                ImageAlign="Left" 
+                ImageAlign="Left"
                 ImageUrl="~/img/dep.png" 
                 Width="600" Height="80"
                 runat="server"/>
