@@ -2,39 +2,34 @@
         {
             overflow-x:hidden;
 	        background-color: #085394;
+            background-image: linear-gradient(#085394, #073763);
             width:99%;
             text-align:justify;
         }
 
-                
+        /**/
         .entete
         {
-
-            margin-top:0;
-            background-color: #085394;
             z-index:10;
+            background-color:black;
             position: -webkit-sticky;
             position: sticky;
-            top:0%;
-            height:210px;
-            background-color: #216baf;
+            top:1%;
+            height:220px;
         }
-        
 
         .Logo
         {
             margin-left:12%;
         }
-            
+
         .menu 
         {
             display:inline-block;
             margin-left:12%;
             list-style-type:none;
-            margin-left:185px;
-            margin-top:5px;
         }
-            
+
         .niveau1
         {
 
@@ -77,13 +72,12 @@
 
         .contenu
         {
-            margin-left:12.1%;
-            margin-right:11.3%;
+            margin-left:12%;
+            margin-right:11%;
         }
 
         .piedpage
         {
-            z-index:9;
             background-color:black;
             left:0;
             bottom:0;

@@ -22,3 +22,9 @@ C:\Users\vibc\Documents\GitHub\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
 C:\Users\vibc\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
 C:\Users\vibc\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
 C:\Users\vibc\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\bin\Tp1.dll.config
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\bin\Tp1.dll
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
+C:\Users\BEAM\Desktop\TP1 - Site Departement\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb

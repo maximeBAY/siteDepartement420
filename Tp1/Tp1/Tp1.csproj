@@ -61,7 +61,7 @@
     <Content Include="img\dep.png" />
     <Content Include="img\logo_cegep1.png" />
     <Content Include="img\slan.JPG" />
-    <Content Include="Page_maître.Master" />
+    <Content Include="Page_maitre.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -85,12 +85,12 @@
     <Compile Include="Pages\Accueil.aspx.designer.cs">
       <DependentUpon>Accueil.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Page_maître.Master.cs">
-      <DependentUpon>Page_maître.Master</DependentUpon>
+    <Compile Include="Page_maitre.Master.cs">
+      <DependentUpon>Page_maitre.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Page_maître.Master.designer.cs">
-      <DependentUpon>Page_maître.Master</DependentUpon>
+    <Compile Include="Page_maitre.Master.designer.cs">
+      <DependentUpon>Page_maitre.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pages\Slan.aspx.cs">

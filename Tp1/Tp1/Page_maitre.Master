@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maître.master.cs" Inherits="Tp1.Page_maître" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maitre.Master.cs" Inherits="Tp1.Page_maître" %>
 
 <!DOCTYPE html>
 
@@ -13,9 +13,14 @@
 </head>
 
 <body>
-    <form id="form1" runat="server">
+
+    <form id="formPrincipale" runat="server">
 
     <div class="entete">
+
+        <div class="Barre">
+
+        </div>
 
         <div class="Logo">
             <asp:Image  
@@ -29,8 +34,8 @@
 
         <div >
             <asp:Image  
-                ID="Image1" 
-                ImageAlign="Left" 
+                ID="ImageDepartement" 
+                ImageAlign="Left"
                 ImageUrl="~/img/dep.png" 
                 Width="600" Height="80"
                 runat="server"/>
