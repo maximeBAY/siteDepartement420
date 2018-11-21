@@ -82,9 +82,13 @@
 
         .piedpage
         {
+<<<<<<< HEAD
             background-color:#073763;
             position:fixed;
             left:0;
+=======
+            position:absolute;
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
             bottom:0;
             margin-left:-10px;
             width:105%;
@@ -122,7 +126,41 @@
             width:20%;
             color:white;
             font-size:20px;
+<<<<<<< HEAD
             margin-right:15.5%;
+=======
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
+            margin-right:15.5%;
+        }
+
+        .collapsible
+        {
+            background-color: #777;
+            color: white;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
+
+        .active, .collapsible:hover
+        {
+            background-color: #555;
+        }
+        
+        .textefaq
+        {
+            padding: 0 18px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+            background-color: #f1f1f1;
+=======
+            margin-right:14.5%;
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
         }
 
         .fe_txt
@@ -137,7 +175,11 @@
             margin-left:25%;
         }
 
+<<<<<<< HEAD
         .fe_titre
         {
             color:white;
+=======
+>>>>>>> e4ae9bd96ac15484bba58aedf0f02b4ae8a8a005:Tp1/Tp1/StyleSheet_Principale.css
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
         }
