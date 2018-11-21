@@ -60,6 +60,7 @@
     <Content Include="img\donnee.png" />
     <Content Include="img\420.png" />
     <Content Include="img\dep.png" />
+    <Content Include="img\Herman.jpg" />
     <Content Include="img\logo_cegep1.png" />
     <Content Include="img\slan.JPG" />
     <Content Include="Pages\FAQ.aspx" />

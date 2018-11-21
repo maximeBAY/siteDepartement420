@@ -40,3 +40,9 @@ C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
 C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
 C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
 C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\bin\Tp1.dll.config
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\bin\Tp1.dll
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
+C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb

@@ -113,7 +113,6 @@
             margin-top:1%;
             color:white;
             font-size:20px;
-<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             margin-right:15.5%;
         }
 
@@ -142,7 +141,6 @@
             overflow: hidden;
             transition: max-height 0.2s ease-out;
             background-color: #f1f1f1;
-=======
             margin-right:14.5%;
         }
 
@@ -154,5 +152,27 @@
         .fe_donnee
         {
 
->>>>>>> e4ae9bd96ac15484bba58aedf0f02b4ae8a8a005:Tp1/Tp1/StyleSheet_Principale.css
+
+        } 
+        
+        .css_Personnel_Img
+        {
+            float:left;
+            margin:15px;
+            
+        }
+
+        .css_Personnel_Box
+        {
+            border:0px solid black;
+            width: 98%;  
+            float: left;
+            background-color: gray; 
+            padding:4px;       
+        }
+        .css_Personnel_Text
+        {
+            margin-top:15px;
+            margin-right:3px;
+
         }
