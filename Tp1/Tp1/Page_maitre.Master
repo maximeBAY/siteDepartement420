@@ -6,7 +6,7 @@
 
 <head runat="server">
 
-    <link rel="stylesheet" href="StyleSheet.css" />
+    <link rel="stylesheet" href="StyleSheet_Principale.css" />
 
     <title>Ma page web</title>
 
@@ -40,7 +40,6 @@
         </div>
 
 
-        <%--<br />--%>
 
         <div >
 
@@ -48,7 +47,7 @@
                 ID="menu" 
                 runat="server" 
                 Orientation="Horizontal">
-                
+      
                 <LevelMenuItemStyles>
                     <asp:MenuItemStyle CssClass="niveau1"/>
                     <asp:MenuItemStyle CssClass="niveau2"/>
@@ -56,20 +55,20 @@
 
                 <Items>
 
-                    <asp:MenuItem NavigateUrl="~/Pages/Accueil" 
+                    <asp:MenuItem NavigateUrl="~/Pages/Accueil.aspx" 
                         Text="Accueil" 
                         Value="url">
                     </asp:MenuItem>
 
-                    <asp:MenuItem  
+                    <asp:MenuItem NavigateUrl="~/Pages/Futurs etudiants/Documentation.aspx"
                         Text="Futurs étudiants" 
                         Value="url">
-                        <asp:MenuItem Text="Documentation" NavigateUrl="~/Pages/Futurs étudiants/Documentation.aspx" ></asp:MenuItem>
-                        <asp:MenuItem Text="Cheminement" NavigateUrl="~/Pages/Futurs étudiants/Cheminement.aspx"></asp:MenuItem>
-                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Futurs étudiants/Carriere.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Documentation" NavigateUrl="~/Pages/Futurs etudiants/Documentation.aspx" ></asp:MenuItem>
+                        <asp:MenuItem Text="Cheminement" NavigateUrl="~/Pages/Futurs etudiants/Cheminement.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Futurs etudiants/Carriere.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
-                    <asp:MenuItem NavigateUrl="~/Pages/Stages.aspx"
+                    <asp:MenuItem NavigateUrl="~/Pages/Stages/Stages.aspx"
                         Text="Stages" 
                         Value="bouton">
                         <asp:MenuItem Text="Étudiant" NavigateUrl="~/Pages/Stages/Etudiant.aspx"></asp:MenuItem>
@@ -112,6 +111,7 @@
         </asp:ContentPlaceHolder>
     </div>
 
+
     <div class="piedpage">
 
         <div class="contact">
@@ -141,7 +141,6 @@
         </div>
 
     </div>
-
 
 
     </form>
