@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\donnee.png" />
     <Content Include="img\420.png" />
     <Content Include="img\dep.png" />
     <Content Include="img\logo_cegep1.png" />
