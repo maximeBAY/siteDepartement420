@@ -34,3 +34,9 @@ C:\Users\TOLG\Desktop\truc\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
 C:\Users\TOLG\Desktop\truc\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
 C:\Users\TOLG\Desktop\truc\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
 C:\Users\TOLG\Desktop\truc\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\bin\Tp1.dll.config
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\bin\Tp1.dll
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
+C:\Users\riom\Documents\GitHub\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
