@@ -7,45 +7,63 @@
 // </généré automatiquement>
 //------------------------------------------------------------------------------
 
-namespace Tp1.Pages {
+namespace Tp1 {
     
     
-    public partial class FAQ {
+    public partial class Page_maître {
         
         /// <summary>
-        /// Contrôle avantagesInternational.
+        /// Contrôle formPrincipale.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.BulletedList avantagesInternational;
+        protected global::System.Web.UI.HtmlControls.HtmlForm formPrincipale;
         
         /// <summary>
-        /// Contrôle loisirs.
+        /// Contrôle logo.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.BulletedList loisirs;
+        protected global::System.Web.UI.WebControls.Image logo;
         
         /// <summary>
-        /// Contrôle prerequisDES.
+        /// Contrôle ImageDepartement.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.BulletedList prerequisDES;
+        protected global::System.Web.UI.WebControls.Image ImageDepartement;
         
         /// <summary>
-        /// Contrôle prerequisDEP.
+        /// Contrôle menu.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.BulletedList prerequisDEP;
+        protected global::System.Web.UI.WebControls.Menu menu;
+        
+        /// <summary>
+        /// Contrôle cph_contenu.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder cph_contenu;
+        
+        /// <summary>
+        /// Contrôle logo_cegep1.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image logo_cegep1;
     }
 }

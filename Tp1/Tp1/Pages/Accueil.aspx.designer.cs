@@ -7,11 +7,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tp1.Pages
+namespace Tp1
 {
 
 
-    public partial class Carriere
+    public partial class Accueil
     {
+
+        /// <summary>
+        /// contrôle form1.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
     }
 }

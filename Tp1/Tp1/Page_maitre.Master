@@ -18,6 +18,8 @@
 
     <div class="entete">
 
+
+
         <div class="Logo">
             <asp:Image  
                 ID="logo" 
@@ -27,6 +29,7 @@
                 runat="server"/>
         </div>
             
+
         <div>
             <asp:Image  
                 ID="ImageDepartement" 
@@ -35,6 +38,8 @@
                 Width="600" Height="80"
                 runat="server"/>
         </div>
+
+
 
         <div >
 
@@ -136,6 +141,7 @@
         </div>
 
     </div>
+
 
     </form>
 </body>

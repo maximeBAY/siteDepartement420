@@ -2,38 +2,37 @@
         {
             overflow-x:hidden;
 	        background-color: #085394;
-            width:80%;
+            background-image: linear-gradient(#085394, #073763);
+            width:99%;
             text-align:justify;
         }
 
-        /**/
+                
         .entete
         {
-
-            background-color: black;
             z-index:10;
+            background-color:black;
             position: -webkit-sticky;
             position: sticky;
             top:0%;
             height:210px;
             background-color: #216baf;
         }
-        
 
         .Logo
         {
             margin-left:12%;
         }
-
-
+            
         .menu 
         {
             display:inline-block;
+            margin-left:12%;
             list-style-type:none;
             margin-left:185px;
             margin-top:5px;
         }
-
+            
         .niveau1
         {
 
@@ -76,13 +75,12 @@
 
         .contenu
         {
-            margin-left:12.1%;
-            margin-right:11.3%;
+            margin-left:12%;
+            margin-right:11%;
         }
 
         .piedpage
         {
-            z-index:9;
             background-color:black;
             left:0;
             bottom:0;
@@ -118,20 +116,4 @@
             color:white;
             font-size:20px;
             margin-right:15.5%;
-        }
-
-        .fe_txt
-        {
-            font: 15px arial, verdana;
-            color:white;
-        }
-
-        .fe_donnee
-        {
-
-        }
-
-        .fe_titre
-        {
-            color:#0089FF;
         }
