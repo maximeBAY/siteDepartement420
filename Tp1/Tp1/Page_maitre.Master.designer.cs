@@ -13,13 +13,13 @@ namespace Tp1 {
     public partial class Page_maître {
         
         /// <summary>
-        /// Contrôle form1.
+        /// Contrôle formPrincipale.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm formPrincipale;
         
         /// <summary>
         /// Contrôle logo.
@@ -31,13 +31,13 @@ namespace Tp1 {
         protected global::System.Web.UI.WebControls.Image logo;
         
         /// <summary>
-        /// Contrôle Image1.
+        /// Contrôle ImageDepartement.
         /// </summary>
         /// <remarks>
         /// Champ généré automatiquement.
         /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image Image1;
+        protected global::System.Web.UI.WebControls.Image ImageDepartement;
         
         /// <summary>
         /// Contrôle menu.

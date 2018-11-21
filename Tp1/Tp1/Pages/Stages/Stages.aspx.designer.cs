@@ -7,18 +7,9 @@
 // </généré automatiquement>
 //------------------------------------------------------------------------------
 
-namespace Tp1 {
+namespace Tp1.Pages.Stages {
     
     
-    public partial class WebForm1 {
-        
-        /// <summary>
-        /// Contrôle img_slan.
-        /// </summary>
-        /// <remarks>
-        /// Champ généré automatiquement.
-        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Image img_slan;
+    public partial class Stages {
     }
 }

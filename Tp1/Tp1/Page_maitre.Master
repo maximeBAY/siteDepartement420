@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maître.master.cs" Inherits="Tp1.Page_maître" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_maitre.Master.cs" Inherits="Tp1.Page_maître" %>
 
 <!DOCTYPE html>
 
@@ -6,7 +6,7 @@
 
 <head runat="server">
 
-    <link rel="stylesheet" href="StyleSheet.css" />
+    <link rel="stylesheet" href="StyleSheet_Principale.css" />
 
     <title>Ma page web</title>
 
@@ -14,33 +14,33 @@
 
 <body>
 
-    <form id="form1" runat="server">
-
-    
+    <form id="formPrincipale" runat="server">
 
     <div class="entete">
+
+
 
         <div class="Logo">
             <asp:Image  
                 ID="logo" 
                 ImageAlign="Left" 
                 ImageUrl="~/img/420.png" 
-                Width="150" Height="150"
+                Width="90" Height="90"
                 runat="server"/>
         </div>
             
 
-        <div >
+        <div>
             <asp:Image  
-                ID="Image1" 
-                ImageAlign="Left" 
+                ID="ImageDepartement" 
+                ImageAlign="Left"
                 ImageUrl="~/img/dep.png" 
-                Width="800" Height="120"
+                Width="600" Height="80"
                 runat="server"/>
         </div>
 
 
-        <br />
+        <%--<br />--%>
 
         <div >
 
@@ -56,27 +56,27 @@
 
                 <Items>
 
-                    <asp:MenuItem NavigateUrl="~/Accueil" 
+                    <asp:MenuItem NavigateUrl="~/Pages/Accueil" 
                         Text="Accueil" 
                         Value="url">
                     </asp:MenuItem>
 
-                    <asp:MenuItem NavigateUrl="~/page1.aspx"  
+                    <asp:MenuItem  
                         Text="Futurs étudiants" 
                         Value="url">
-                        <asp:MenuItem Text="Documentation"></asp:MenuItem>
-                        <asp:MenuItem Text="Cheminement"></asp:MenuItem>
-                        <asp:MenuItem Text="Carrière"></asp:MenuItem>
+                        <asp:MenuItem Text="Documentation" NavigateUrl="~/Pages/Futurs étudiants/Documentation.aspx" ></asp:MenuItem>
+                        <asp:MenuItem Text="Cheminement" NavigateUrl="~/Pages/Futurs étudiants/Cheminement.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Futurs étudiants/Carriere.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
-                    <asp:MenuItem NavigateUrl="~/page2.aspx"
-                        Text="Stage" 
+                    <asp:MenuItem NavigateUrl="~/Pages/Stages.aspx"
+                        Text="Stages" 
                         Value="bouton">
-                        <asp:MenuItem Text="Etudiant"></asp:MenuItem>
-                        <asp:MenuItem Text="Employeur"></asp:MenuItem>
+                        <asp:MenuItem Text="Étudiant" NavigateUrl="~/Pages/Stages/Etudiant.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Employeur" NavigateUrl="~/Pages/Stages/Employeur.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
-                    <asp:MenuItem 
+                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx"
                         Text="Le SLAN"
                         Value="image">
                     </asp:MenuItem>
@@ -84,11 +84,12 @@
                     <asp:MenuItem 
                         Text="Équipe"
                         Value="image">
-                        <asp:MenuItem Text="Personnel"></asp:MenuItem>
-                        <asp:MenuItem Text="Carrière"></asp:MenuItem>
+                        <asp:MenuItem Text="Personnel" NavigateUrl="~/Pages/Equipe/Personnel.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Equipe/Carriere.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
                     <asp:MenuItem 
+                        NavigateUrl="~/Pages/FAQ.aspx"
                         Text="FAQ"
                         Value="image">
                     </asp:MenuItem>
@@ -102,7 +103,7 @@
 
         </div>
     </div>
-        
+
     <br />
 
     <div class="contenu">
