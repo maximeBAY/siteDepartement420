@@ -120,6 +120,30 @@
     <Compile Include="Pages\Futurs étudiants\Documentation.aspx.designer.cs">
       <DependentUpon>Documentation.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="Pages\Stages\Employeur.aspx.cs">
+      <DependentUpon>Employeur.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Stages\Employeur.aspx.designer.cs">
+      <DependentUpon>Employeur.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Stages\Etudiant.aspx.cs">
+      <DependentUpon>Etudiant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Stages\Etudiant.aspx.designer.cs">
+      <DependentUpon>Etudiant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Stages\Stages.aspx.cs">
+      <DependentUpon>Stages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Stages\Stages.aspx.designer.cs">
+      <DependentUpon>Stages.aspx</DependentUpon>
+    </Compile>
+>>>>>>> 8e62bc7d01ea7fbe5c1bd226f4408d3f741fbef4
     <Compile Include="Pages\Équipe\Carriere.aspx.cs">
       <DependentUpon>Carriere.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
