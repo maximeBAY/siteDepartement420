@@ -140,6 +140,9 @@
       <DependentUpon>Stages.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Pages\Stages\Stages.aspx.designer.cs">
+      <DependentUpon>Stages.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Équipe\Carriere.aspx.cs">
       <DependentUpon>Carriere.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
