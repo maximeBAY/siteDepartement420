@@ -14,7 +14,9 @@
             z-index:10;
             position: -webkit-sticky;
             position: sticky;
-            top:1%;
+            top:0%;
+            height:210px;
+            background-color: #216baf;
         }
         
 
@@ -27,8 +29,9 @@
         .menu 
         {
             display:inline-block;
-            margin-left:12%;
             list-style-type:none;
+            margin-left:185px;
+            margin-top:5px;
         }
 
         .niveau1
