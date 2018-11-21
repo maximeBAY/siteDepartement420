@@ -7,7 +7,7 @@
 // </généré automatiquement>
 //------------------------------------------------------------------------------
 
-namespace Tp1.Pages {
+namespace Tp1.Pages.Stages {
     
     
     public partial class Stages {
