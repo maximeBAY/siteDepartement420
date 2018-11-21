@@ -12,8 +12,14 @@
         {
             position: -webkit-sticky;
             position: sticky;
+<<<<<<< HEAD
             top:1%;
             height:220px;
+=======
+            top:0%;
+            height:210px;
+            background-color: #216baf;
+>>>>>>> 7749ca16377a0e2d6670f35c58371386696d6180
         }
 
         .Logo
@@ -26,8 +32,13 @@
             padding: 0vh 2vw 0vh 2vw;
             display:inline-block;
             list-style-type:none;
+<<<<<<< HEAD
             margin-left:-185px;
             margin-top:35px;
+=======
+            margin-left:185px;
+            margin-top:5px;
+>>>>>>> 7749ca16377a0e2d6670f35c58371386696d6180
         }
 
         .niveau1

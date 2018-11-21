@@ -26,4 +26,18 @@
         runat="server" 
         width="35%" />
 
+    <br /><br />
+
+    <h1 class="fe_titre">Portes ouvertes</h1>
+    <p class="fe_txt">Le Cégep de Sept-Îles invite les élèves du secondaire ainsi que la population à sa 
+        journée Portes ouvertes qui aura lieu le <strong>17 janvier 2019</strong>. Tu y découvriras une ambiance chaleureuse, 
+        des projets stimulants, l’un des cégeps les plus modernes et des professeurs passionnés, prêts à te 
+        guider vers la réussite.</p>
+
+    <h1 class="fe_titre">Visite guidée</h1>
+    <p class="fe_txt"></p>
+
+    <h1 class="fe_titre">Étudiant d'un jour</h1>
+    <p class="fe_txt"></p>
+
 </asp:Content>
