@@ -1,9 +1,13 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="FAQ.aspx.cs" Inherits="Tp1.Pages.FAQ" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_contenu" runat="server">
+    <h1>FAQ (Foire aux questions)</h1>
+    <p>Voici quelques questions qui nous sont fréquemment posées par rapport au programme de Techniques informatique du Cégep de Sept-Îles.</p>
+
     <button class="collapsible" onclick="return false">Pourquoi choisir l’informatique au Cégep de Sept-Îles?</button>
     <div class="textefaq">
-        <p>Les métiers liés à l’informatique sont de plus en plus en demande partout dans le monde. C’est un champ de travail qui est appelé à évoluer et qui n’est pas prêt de s’affaiblir.</p>
+        <p>Les métiers liés à l’informatique sont de plus en plus en demande partout dans le monde. C’est un champ de travail qui est appelé à évoluer et qui n’est pas prêt de s’affaiblir.
+            <br /> Le programme de Techniques de l'informatique du Cégep de Sept-Îles vous offre une formation de pointe dans tous les aspects du monde de l'informatique.<br />Des équipements modernes sont à disposition des étudiants tout au long de leur parcours pour se rapprocher des équipements utilisés sur le marché du travail.</p>
     </div>
 
     <button class="collapsible" onclick="return false">Quel est l’avantage de venir étudier ici pour un étudiant international?</button>
@@ -65,6 +69,25 @@
         <strong>Posséder une formation jugée équivalente par le collège.</strong>
         <br /> 
         <p>Pour les candidats ayant suivi leur formation hors Québec, posséder une formation égale ou supérieure au DES ou au DEP. Le Cégep établit les équivalences de scolarité pour les diplômes provenant de l'étranger sous la recommandation du <a href="https://www.sracq.qc.ca/">Service régional d'admission au collégial de Québec</a>  (SRACQ).</p>
+        <strong>OU</strong>
+        <br />
+        <strong>Posséder une formation et une expérience jugée suffisante.</strong>
+        <p>Le Collège peut admettre sur la base de la formation et de l'expérience jugée suffisante la personne qui satisfait aux conditions suivantes :</p>
+        <asp:BulletedList ID="experienceSuffisante" runat="server">
+            <asp:ListItem Text="elle satisfait aux conditions particulières d'admission du programme;" />
+            <asp:ListItem Text="elle a interrompu ses études à temps complet pendant une période cumulative d'au moins 36 mois." />
+        </asp:BulletedList>
+        <strong>*Conditions particulières d'admission</strong>
+        <p>Le Cégep peut admettre sous condition un candidat à qui il manque au maximum 6 unités pour obtenir le DES ou l'une des 3 matières obligatoires du DEP. Ce candidat doit obtenir les unités manquantes au cours de sa 1ère session collégiale pour être admis.</p>
+        <br />
+        <strong>Pour plus d'informations, communique avec :</strong>
+        <br />
+        <br />
+        <p style="margin-bottom: 6px;"><strong>Josée Alain</strong>
+            <br />Responsable de l'admission
+            <br /><strong>Local D-103b</strong>
+            <br />418 962-9848, poste 260
+            <br />josee.alain@cegepsi.ca</p>
     </div>
 
 
