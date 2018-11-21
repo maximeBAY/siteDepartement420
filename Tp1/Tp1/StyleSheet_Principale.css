@@ -79,6 +79,7 @@
 
         .piedpage
         {
+            position:absolute;
             bottom:0;
             margin-left: -25px;
             background-color: #073763;
