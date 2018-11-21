@@ -2,7 +2,7 @@
         {
             overflow-x:hidden;
 	        background-color: #085394;
-            width:99%;
+            width:80%;
             text-align:justify;
         }
 
@@ -122,10 +122,16 @@
 
         .fe_txt
         {
-
+            font: 15px arial, verdana;
+            color:white;
         }
 
         .fe_donnee
         {
 
+        }
+
+        .fe_titre
+        {
+            color:0089FF;
         }

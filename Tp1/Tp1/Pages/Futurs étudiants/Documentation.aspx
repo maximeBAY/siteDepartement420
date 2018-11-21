@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_contenu" runat="server">
 
-    <h1>Introduction de la Technique de l’informatique </h1>
+    <h1 class="fe_titre">Introduction de la Technique de l’informatique </h1>
 
     <p class="fe_txt">La formation en Techniques de l'informatique au Cégep de Sept-Îles forme 
         les étudiants en tant que technicien(ne) généraliste. Tout au long de sa formation, 
