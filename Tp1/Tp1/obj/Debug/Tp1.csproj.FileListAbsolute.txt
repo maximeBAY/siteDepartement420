@@ -46,3 +46,9 @@ C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\bin\T
 C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
 C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
 C:\Users\BEAN\Desktop\travail pratique bean git\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\bin\Tp1.dll.config
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\bin\Tp1.dll
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
+C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
