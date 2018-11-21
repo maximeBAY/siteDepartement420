@@ -106,7 +106,10 @@
             color:white;
             font-size:20px;
         }
-        
+        .fondtexte
+        {
+            background-color: white;
+        }
         .logo_Cegep
         {
             text-align:right;

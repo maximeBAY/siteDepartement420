@@ -84,8 +84,8 @@
                     <asp:MenuItem 
                         Text="Équipe"
                         Value="image">
-                        <asp:MenuItem Text="Personnel" NavigateUrl="~/Pages/Equipe/Personnel.aspx"></asp:MenuItem>
-                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Equipe/Carriere.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Personnel" NavigateUrl="~/Pages/Équipe/Personnel.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Équipe/Carriere.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
                     <asp:MenuItem 
