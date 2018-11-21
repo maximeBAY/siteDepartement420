@@ -7,9 +7,14 @@
             text-align:justify;
         }
 
-        /**/
         .entete
         {
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
+=======
+
+            background-color: #085394;
+            z-index:10;
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
             position: -webkit-sticky;
             position: sticky;
 <<<<<<< HEAD
@@ -17,9 +22,12 @@
             height:220px;
 =======
             top:0%;
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             height:210px;
             background-color: #216baf;
 >>>>>>> 7749ca16377a0e2d6670f35c58371386696d6180
+=======
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
         }
 
         .Logo
@@ -83,9 +91,14 @@
 
         .contenu
         {
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             margin:auto;
             margin-left:150px;
             margin-top:50px;
+=======
+            margin-left:11.3%;
+            margin-right:12%;
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
         }
 
         .piedpage
@@ -104,9 +117,14 @@
             padding-left:10%;
             float:left;
             color:white;
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             width:20%;
             margin-top:1%;
             margin-left:12%;
+=======
+            margin-left:11%;
+            margin-top:1%;      
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
             font-size:15px;
         }
 
@@ -130,16 +148,28 @@
             width:20%;
             color:white;
             font-size:20px;
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
+=======
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet_Principale.css
+            margin-right:16%;
+=======
+            margin-right:15.5%;
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
         }
 
         .fe_txt
         {
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             color:white;
             font:14px Arial Rounded MT Bold, verdana;	
+=======
+
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
         }
 
         .fe_donnee
         {
+<<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             margin-top:2%;
             margin-left:25%;
         }
@@ -147,4 +177,8 @@
         .fe_titre
         {
             color:white;
+=======
+
+>>>>>>> e6d3774fe6b551ac2baa9e4d2fbf21a43166d308:Tp1/Tp1/StyleSheet.css
+>>>>>>> bedf997ac285d0dd704cbdf3349a38aa06583ca3:Tp1/Tp1/StyleSheet_Principale.css
         }

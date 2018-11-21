@@ -6,7 +6,7 @@
 
 <head runat="server">
 
-    <link rel="stylesheet" href="StyleSheet.css" />
+    <link rel="stylesheet" href="StyleSheet_Principale.css" />
 
     <title>Ma page web</title>
 
@@ -40,7 +40,7 @@
         </div>
 
 
-        <%--<br />--%>
+        <%--<br /Sup>--%>
 
         <div >
 
@@ -48,7 +48,7 @@
                 ID="menu" 
                 runat="server" 
                 Orientation="Horizontal">
-                
+            <%--<br /Sup>--%>      
                 <LevelMenuItemStyles>
                     <asp:MenuItemStyle CssClass="niveau1"/>
                     <asp:MenuItemStyle CssClass="niveau2"/>

@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\donnee.png" />
     <Content Include="img\420.png" />
     <Content Include="img\dep.png" />
     <Content Include="img\donnee.png" />
@@ -81,7 +82,7 @@
     <Content Include="img\Logo.png" />
     <Content Include="img\Logo_Cegep.png" />
     <Content Include="Pages\Slan.aspx" />
-    <Content Include="StyleSheet.css" />
+    <Content Include="StyleSheet_Principale.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
