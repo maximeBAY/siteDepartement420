@@ -6,12 +6,11 @@
             text-align:justify;
         }
 
-                
+        /**/
         .entete
         {
 
-            margin-top:0;
-            background-color: #085394;
+            background-color: black;
             z-index:10;
             position: -webkit-sticky;
             position: sticky;
@@ -25,16 +24,16 @@
         {
             margin-left:12%;
         }
-            
+
+
         .menu 
         {
             display:inline-block;
-            margin-left:12%;
             list-style-type:none;
             margin-left:185px;
             margin-top:5px;
         }
-            
+
         .niveau1
         {
 

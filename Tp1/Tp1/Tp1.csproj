@@ -61,6 +61,15 @@
     <Content Include="img\dep.png" />
     <Content Include="img\logo_cegep1.png" />
     <Content Include="img\slan.JPG" />
+    <Content Include="Pages\FAQ.aspx" />
+    <Content Include="Pages\Futurs étudiants\Carriere.aspx" />
+    <Content Include="Pages\Futurs étudiants\Cheminement.aspx" />
+    <Content Include="Pages\Futurs étudiants\Documentation.aspx" />
+    <Content Include="Pages\Stages\Employeur.aspx" />
+    <Content Include="Pages\Stages\Etudiant.aspx" />
+    <Content Include="Pages\Stages\Stages.aspx" />
+    <Content Include="Pages\Équipe\Carriere.aspx" />
+    <Content Include="Pages\Équipe\Personnel.aspx" />
     <Content Include="Page_maitre.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -84,6 +93,66 @@
     </Compile>
     <Compile Include="Pages\Accueil.aspx.designer.cs">
       <DependentUpon>Accueil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\FAQ.aspx.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\FAQ.aspx.designer.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Carriere.aspx.cs">
+      <DependentUpon>Carriere.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Carriere.aspx.designer.cs">
+      <DependentUpon>Carriere.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Cheminement.aspx.cs">
+      <DependentUpon>Cheminement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Cheminement.aspx.designer.cs">
+      <DependentUpon>Cheminement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Documentation.aspx.cs">
+      <DependentUpon>Documentation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Futurs étudiants\Documentation.aspx.designer.cs">
+      <DependentUpon>Documentation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Stages\Employeur.aspx.cs">
+      <DependentUpon>Employeur.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Stages\Employeur.aspx.designer.cs">
+      <DependentUpon>Employeur.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Stages\Etudiant.aspx.cs">
+      <DependentUpon>Etudiant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Stages\Etudiant.aspx.designer.cs">
+      <DependentUpon>Etudiant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Stages\Stages.aspx.cs">
+      <DependentUpon>Stages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Équipe\Carriere.aspx.cs">
+      <DependentUpon>Carriere.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Équipe\Carriere.aspx.designer.cs">
+      <DependentUpon>Carriere.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Équipe\Personnel.aspx.cs">
+      <DependentUpon>Personnel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Équipe\Personnel.aspx.designer.cs">
+      <DependentUpon>Personnel.aspx</DependentUpon>
     </Compile>
     <Compile Include="Page_maitre.Master.cs">
       <DependentUpon>Page_maitre.Master</DependentUpon>
