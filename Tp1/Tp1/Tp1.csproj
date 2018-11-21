@@ -60,9 +60,17 @@
     <Content Include="img\donnee.png" />
     <Content Include="img\420.png" />
     <Content Include="img\dep.png" />
+    <Content Include="img\donnee.png" />
     <Content Include="img\logo_cegep1.png" />
     <Content Include="img\slan.JPG" />
     <Content Include="Pages\FAQ.aspx" />
+<<<<<<< HEAD
+    <Content Include="Pages\Futurs étudiants\Carriere.aspx" />
+    <Content Include="Pages\Futurs étudiants\Cheminement.aspx" />
+    <Content Include="Pages\Futurs étudiants\Documentation.aspx" />
+    <Content Include="Pages\Équipe\Carriere.aspx" />
+    <Content Include="Pages\Équipe\Personnel.aspx" />
+=======
     <Content Include="Pages\Futurs etudiants\Carriere.aspx" />
     <Content Include="Pages\Futurs etudiants\Cheminement.aspx" />
     <Content Include="Pages\Futurs etudiants\Documentation.aspx" />
@@ -71,6 +79,7 @@
     <Content Include="Pages\Stages\Stages.aspx" />
     <Content Include="Pages\Equipe\Carriere.aspx" />
     <Content Include="Pages\Equipe\Personnel.aspx" />
+>>>>>>> master
     <Content Include="Page_maitre.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -123,6 +132,8 @@
     <Compile Include="Pages\Futurs etudiants\Documentation.aspx.designer.cs">
       <DependentUpon>Documentation.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+=======
     <Compile Include="Pages\Stages\Employeur.aspx.cs">
       <DependentUpon>Employeur.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -144,7 +155,12 @@
     <Compile Include="Pages\Stages\Stages.aspx.designer.cs">
       <DependentUpon>Stages.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+>>>>>>> 8e62bc7d01ea7fbe5c1bd226f4408d3f741fbef4
+    <Compile Include="Pages\Équipe\Carriere.aspx.cs">
+=======
     <Compile Include="Pages\Equipe\Carriere.aspx.cs">
+>>>>>>> master
       <DependentUpon>Carriere.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>

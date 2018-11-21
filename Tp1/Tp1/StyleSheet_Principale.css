@@ -2,6 +2,7 @@
         {
             overflow-x:hidden;
 	        background-color: #085394;
+            background-image: linear-gradient(#085394, #073763);
             width:99%;
             text-align:justify;
         }
@@ -9,32 +10,33 @@
         .entete
         {
 
+
             background-color: #085394;
             z-index:1;
             position: -webkit-sticky;
             position: sticky;
-            top:0%;
+            top:1%;
+            height:220px;
         }
-        
 
         .Logo
         {
-            margin-left:12%;
+            margin-left:200px;
         }
-
 
         .menu 
         {
+            padding: 0vh 2vw 0vh 2vw;
             display:inline-block;
             list-style-type:none;
-            margin-left:185px;
-            margin-top:5px;
+            margin-left:-185px;
+            margin-top:35px;
         }
 
         .niveau1
         {
 
-            width:12.5em;
+            width:12.1em;
             /*Largeur des onglet*/
             background-color: #073763;  
             color: white;  
@@ -52,7 +54,7 @@
 
         .niveau2
         {
-            width: 12.9em; 
+            width: 12.5em; 
             background-color: #87ADD4;  
             color: #073763;
             font-size: medium;
@@ -73,46 +75,60 @@
 
         .contenu
         {
-            margin-left:11.3%;
-            margin-right:12%;
+            margin:auto;
+            margin-left:150px;
+            margin-top:50px;
         }
 
         .piedpage
         {
+<<<<<<< HEAD
+            background-color:#073763;
+            position:fixed;
+            left:0;
+=======
+            position:absolute;
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
             bottom:0;
-            margin-left: -25px;
-            background-color: #073763;
+            margin-left:-10px;
             width:105%;
-            height:120px;
         }
 
         .contact
         {
-            text-align:left;
+            position:relative;
+            padding-left:10%;
             float:left;
             color:white;
+            width:20%;
+            margin-top:1%;
             margin-left:12.2%;
-            margin-top:1%;      
             font-size:15px;
         }
-        
+
         .formulaire
         {
-            text-align:left;            
+            position:relative;
             float:left;
             margin-top:1%;
-            margin-left:18%;
+            margin-left:5%;
+            width:20%;
             color:white;
             font-size:20px;
         }
-        
+
         .logo_Cegep
         {
-            text-align:right;
-            float:right;
+            position:relative;
+            float:left;
             margin-top:1%;
+            margin-left:10%;
+            width:20%;
             color:white;
             font-size:20px;
+<<<<<<< HEAD
+            margin-right:15.5%;
+=======
 <<<<<<< HEAD:Tp1/Tp1/StyleSheet.css
             margin-right:15.5%;
         }
@@ -144,15 +160,26 @@
             background-color: #f1f1f1;
 =======
             margin-right:14.5%;
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
         }
 
         .fe_txt
         {
-
+            color:white;
+            font:14px Arial Rounded MT Bold, verdana;	
         }
 
         .fe_donnee
         {
+            margin-top:2%;
+            margin-left:25%;
+        }
 
+<<<<<<< HEAD
+        .fe_titre
+        {
+            color:white;
+=======
 >>>>>>> e4ae9bd96ac15484bba58aedf0f02b4ae8a8a005:Tp1/Tp1/StyleSheet_Principale.css
+>>>>>>> 02af8906137c81ca7a70f7602aed525e805ec737
         }
