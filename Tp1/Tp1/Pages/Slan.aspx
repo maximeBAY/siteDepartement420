@@ -4,7 +4,7 @@
     
     <div style="color:white; width: 80%; ">
     Le SLAN est un évènement annuel organisé par la cohorte des troisièmes années de la technique en Informatique. Des centaines de joueurs passionnés de jeux vidéo se retrouvent dans le gymnase du Cégep de Sept-Îles pour partager leur passion pendant 24 heures. Plusieurs tournois de jeux vidéo sont organisés offrant des prix succulents aux gagnants ainsi que des prix de présence au cours de la soirée.
-    Plus d’informations sur le site officiel du SLAN Révolution. BROUILLON
+    Plus d’informations sur le <a href="http://slanrevolution.net/">site officiel du SLAN Révolution</a>.
     </div>
         <asp:Image class="img"
                 ID="img_slan" 
