@@ -84,11 +84,14 @@
 
         .piedpage
         {
+            
+            position:sticky;
             bottom:0;
             margin-left: -25px;
             background-color: #073763;
             width:105%;
             height:120px;
+            
         }
 
         .contact
@@ -157,30 +160,28 @@
         .fe_donnee
         {
 
-<<<<<<< HEAD
-=======
+
 
         } 
         
         .css_Personnel_Img
         {
             float:left;
-            margin:15px;
-            
+            margin:0px;
+            height:100%;
         }
 
         .css_Personnel_Box
         {
-            border:0px solid black;
-            width: 98%;  
-            float: left;
-            background-color: gray; 
-            padding:4px;       
+            border:1px solid black;
+            width: 98%;
+            height:200px;  
+            /*float: left;*/
+            background-color: #f1f1f1; 
+            padding:4px;
         }
         .css_Personnel_Text
         {
-            margin-top:15px;
+            margin-top:4px;
             margin-right:3px;
-
->>>>>>> 4f1daa5e1f741dca4a4fb3744111cf00de96e26a
         }
