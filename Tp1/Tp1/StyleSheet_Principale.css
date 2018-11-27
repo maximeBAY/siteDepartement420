@@ -15,6 +15,11 @@
             position: sticky;
             top:0%;
         }
+
+        .fondtexte
+        {
+            background-color: white;
+        }
         
 
         .Logo
@@ -152,4 +157,30 @@
         .fe_donnee
         {
 
+<<<<<<< HEAD
+=======
+
+        } 
+        
+        .css_Personnel_Img
+        {
+            float:left;
+            margin:15px;
+            
+        }
+
+        .css_Personnel_Box
+        {
+            border:0px solid black;
+            width: 98%;  
+            float: left;
+            background-color: gray; 
+            padding:4px;       
+        }
+        .css_Personnel_Text
+        {
+            margin-top:15px;
+            margin-right:3px;
+
+>>>>>>> 4f1daa5e1f741dca4a4fb3744111cf00de96e26a
         }
