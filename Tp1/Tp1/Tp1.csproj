@@ -57,6 +57,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\1ereannee.png" />
+    <Content Include="img\annee2.png" />
+    <Content Include="img\annee3.png" />
     <Content Include="img\donnee.png" />
     <Content Include="img\420.png" />
     <Content Include="img\dep.png" />
