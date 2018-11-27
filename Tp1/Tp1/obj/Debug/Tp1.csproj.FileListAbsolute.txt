@@ -52,3 +52,9 @@ C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
 C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
 C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
 C:\Users\ARSA\Desktop\tp1max\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\bin\Tp1.dll.config
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\bin\Tp1.dll
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\bin\Tp1.pdb
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.dll
+C:\Users\TOLG\Desktop\27.11.2018\siteDepartement420\Tp1\Tp1\obj\Debug\Tp1.pdb
