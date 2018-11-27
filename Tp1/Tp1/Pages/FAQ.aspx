@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="FAQ.aspx.cs" Inherits="Tp1.Pages.FAQ" %>
+﻿<%@ Page Title="FAQ - Département de l'Informatique du Cégep de Sept-Îles" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="FAQ.aspx.cs" Inherits="Tp1.Pages.FAQ" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_contenu" runat="server">
     <h1>FAQ (Foire aux questions)</h1>

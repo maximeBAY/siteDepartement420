@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="Slan.aspx.cs" Inherits="Tp1.WebForm1" %>
+﻿<%@ Page Title="SLAN - Département de l'Informatique du Cégep de Sept-Îles" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="Slan.aspx.cs" Inherits="Tp1.WebForm1" %>
 
 <asp:Content ID="ContentSLAN" ContentPlaceHolderID="cph_contenu" runat="server">
     

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="Carriere.aspx.cs" Inherits="Tp1.Pages.Équipe.Carriere" %>
+﻿<%@ Page Title="Carrière - Département de l'Informatique du Cégep de Sept-Îles" Language="C#" MasterPageFile="~/Page_maitre.Master" AutoEventWireup="true" CodeBehind="Carriere.aspx.cs" Inherits="Tp1.Pages.Équipe.Carriere" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="cph_contenu" runat="server">
         <div class="fondtexte">
     Le Cégep de Sept-Îles est présentement à la recherche d'un enseignant pour son programme Techniques de l'informatique. Ces personnes doivent posséder un intérêt marqué pour le développement des compétences et une bonne capacité d'adaptation.

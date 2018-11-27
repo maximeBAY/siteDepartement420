@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Page_maitre.Master" Title="Accueil" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Page_maitre.Master" Title="Accueil - Département de l'Informatique du Cégep de Sept-Îles" %>
 
 <asp:Content 
     ID="c_accueil" 

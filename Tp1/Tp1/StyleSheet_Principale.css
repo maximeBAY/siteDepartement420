@@ -78,8 +78,9 @@
 
         .contenu
         {
+            background-color:#f1f1f1;
             margin-left:11.3%;
-            margin-right:12%;
+            margin-right:12.8%;
         }
 
         .piedpage
@@ -151,14 +152,12 @@
 
         .fe_txt
         {
-
+            text-align:left;
         }
 
         .fe_donnee
         {
 
-<<<<<<< HEAD
-=======
 
         } 
         
@@ -181,6 +180,4 @@
         {
             margin-top:15px;
             margin-right:3px;
-
->>>>>>> 4f1daa5e1f741dca4a4fb3744111cf00de96e26a
         }
