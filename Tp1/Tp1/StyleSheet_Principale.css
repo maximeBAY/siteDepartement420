@@ -86,7 +86,6 @@
         .piedpage
         {
             
-            position:sticky;
             bottom:0;
             margin-left: -25px;
             background-color: #073763;
@@ -183,4 +182,9 @@
         {
             margin-top:4px;
             margin-right:3px;
+        }
+
+        .s_empl_txt{
+            text-align:left;
+            font-size:large;
         }
