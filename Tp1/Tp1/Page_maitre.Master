@@ -73,7 +73,7 @@
                         <asp:MenuItem Text="Employeur" NavigateUrl="~/Pages/Stages/Employeur.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
-                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx"
+                    <asp:MenuItem  NavigateUrl="http://slanrevolution.net/"
                         Text="Le SLAN"
                         Value="image">
                     </asp:MenuItem>
