@@ -79,7 +79,7 @@
                         Text="Le SLAN"
                         Value="image">
                     
-                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx" ImageUrl="~/img/slan-noirblanc.png">
+                    <asp:MenuItem  NavigateUrl="http://slanrevolution.net/" ImageUrl="~/img/slan-noirblanc.png">
                     </asp:MenuItem>
 
                     <asp:MenuItem 
