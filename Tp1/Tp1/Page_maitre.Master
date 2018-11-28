@@ -44,11 +44,13 @@
             <asp:Menu CssClass="menu"
                 ID="menu" 
                 runat="server" 
-                Orientation="Horizontal">
+                Orientation="Horizontal" 
+                StaticEnableDefaultPopOutImage="true" 
+                DynamicEnableDefaultPopOutImage="true">
       
                 <LevelMenuItemStyles>
                     <asp:MenuItemStyle CssClass="niveau1"/>
-                    <asp:MenuItemStyle CssClass="niveau2"/>
+                    <asp:MenuItemStyle CssClass="niveau2"/>                   
                 </LevelMenuItemStyles>
 
                 <Items>
@@ -72,10 +74,8 @@
                         <asp:MenuItem Text="Étudiant" NavigateUrl="~/Pages/Stages/Etudiant.aspx"></asp:MenuItem>
                         <asp:MenuItem Text="Employeur" NavigateUrl="~/Pages/Stages/Employeur.aspx"></asp:MenuItem>
                     </asp:MenuItem>
-
-                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx"
-                        Text="Le SLAN"
-                        Value="image">
+                    
+                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx" ImageUrl="~/img/slan-noirblanc.png">
                     </asp:MenuItem>
 
                     <asp:MenuItem 

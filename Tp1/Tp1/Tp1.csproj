@@ -62,6 +62,7 @@
     <Content Include="img\dep.png" />
     <Content Include="img\Herman.jpg" />
     <Content Include="img\logo_cegep1.png" />
+    <Content Include="img\slan-noirblanc.png" />
     <Content Include="img\slan.JPG" />
     <Content Include="Pages\FAQ.aspx" />
     <Content Include="Pages\Futurs etudiants\Carriere.aspx" />
@@ -73,6 +74,7 @@
     <Content Include="Pages\Equipe\Carriere.aspx" />
     <Content Include="Pages\Equipe\Personnel.aspx" />
     <Content Include="Page_maitre.Master" />
+    <Content Include="Fonts\OpenSans-CondLight.ttf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

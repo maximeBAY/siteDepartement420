@@ -50,6 +50,12 @@
             padding:10px;
         }
 
+        .niveau1 img
+        {
+            width: 150px;
+            height:35px;
+        }
+
         .niveau1:hover
         {
             background-color:#3A434C;
