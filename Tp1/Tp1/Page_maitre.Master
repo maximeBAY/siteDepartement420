@@ -68,7 +68,7 @@
                         <asp:MenuItem Text="Carrière" NavigateUrl="~/Pages/Futurs etudiants/Carriere.aspx"></asp:MenuItem>
                     </asp:MenuItem>
 
-                    <asp:MenuItem NavigateUrl="~/Pages/Stages/Stages.aspx"
+                    <asp:MenuItem 
                         Text="Stages" 
                         Value="bouton">
                         <asp:MenuItem Text="Étudiant" NavigateUrl="~/Pages/Stages/Etudiant.aspx"></asp:MenuItem>
@@ -105,6 +105,12 @@
 
     <div class="contenu">
         <asp:ContentPlaceHolder ID="cph_contenu" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+   <div class="contenu_pas_blanc">
+        <asp:ContentPlaceHolder ID="cph_contenu_pas_blanc" runat="server">
         
         </asp:ContentPlaceHolder>
     </div>

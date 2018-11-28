@@ -65,10 +65,9 @@
              Le stagiaire jette un regard neuf sur les systèmes en application et parvient parfois à en 
              identifier les failles, et ce, au grand bénéfice du maître de stage.
         </li>
-        <br />
     </ul>
 
-    <br /><br />
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
     <div style="text-align:center;">
            <button class="button" runat="server" style="vertical-align:middle">

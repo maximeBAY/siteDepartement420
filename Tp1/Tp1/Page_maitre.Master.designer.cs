@@ -58,6 +58,15 @@ namespace Tp1 {
         protected global::System.Web.UI.WebControls.ContentPlaceHolder cph_contenu;
         
         /// <summary>
+        /// Contrôle cph_contenu_pas_blanc.
+        /// </summary>
+        /// <remarks>
+        /// Champ généré automatiquement.
+        /// Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder cph_contenu_pas_blanc;
+        
+        /// <summary>
         /// Contrôle logo_cegep1.
         /// </summary>
         /// <remarks>
