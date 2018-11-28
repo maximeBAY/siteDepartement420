@@ -4,11 +4,16 @@
 	        background-color: #085394;
             width:99%;
             text-align:justify;
+            font-family:beauFont;
+        }
+
+        @font-face{
+            font-family: beauFont;
+            src:format('woff') url(img/OpenSans-CondLight.woff);
         }
 
         .entete
         {
-
             background-color: #085394;
             z-index:1;
             position: -webkit-sticky;
@@ -27,7 +32,6 @@
             margin-left:12%;
         }
 
-
         .menu 
         {
             display:inline-block;
@@ -38,7 +42,6 @@
 
         .niveau1
         {
-
             width:12.5em;
             /*Largeur des onglet*/
             background-color: #073763;  
@@ -187,4 +190,8 @@
         .s_empl_txt{
             text-align:left;
             font-size:large;
+		}
+		
+        .video{
+            text-align:center;
         }
