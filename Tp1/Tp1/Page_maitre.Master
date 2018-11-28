@@ -44,11 +44,13 @@
             <asp:Menu CssClass="menu"
                 ID="menu" 
                 runat="server" 
-                Orientation="Horizontal">
+                Orientation="Horizontal" 
+                StaticEnableDefaultPopOutImage="true" 
+                DynamicEnableDefaultPopOutImage="true">
       
                 <LevelMenuItemStyles>
                     <asp:MenuItemStyle CssClass="niveau1"/>
-                    <asp:MenuItemStyle CssClass="niveau2"/>
+                    <asp:MenuItemStyle CssClass="niveau2"/>                   
                 </LevelMenuItemStyles>
 
                 <Items>
@@ -76,6 +78,8 @@
                     <asp:MenuItem  NavigateUrl="http://slanrevolution.net/"
                         Text="Le SLAN"
                         Value="image">
+                    
+                    <asp:MenuItem  NavigateUrl="~/Pages/Slan.aspx" ImageUrl="~/img/slan-noirblanc.png">
                     </asp:MenuItem>
 
                     <asp:MenuItem 
